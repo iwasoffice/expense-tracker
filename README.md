@@ -21,8 +21,11 @@ A simple command-line Python application to track personal expenses.
 ## Usage
    Run the Python script:
       ```bash
-      python expense_tracker.py
 
+3. Install required Python packages (if any).
+   ```bash
+   python expense_tracker.py
+      
 ## Example
 1. Add an expense:
    ```bash
